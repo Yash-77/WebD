@@ -1,2 +1,2 @@
 # WebD
-Web Development project
+Web Development frontend project
